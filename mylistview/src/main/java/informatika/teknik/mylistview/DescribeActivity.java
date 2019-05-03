@@ -1,4 +1,4 @@
-package picodiploma.dicoding.myapplication;
+package informatika.teknik.mylistview;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

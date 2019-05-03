@@ -1,4 +1,4 @@
-package picodiploma.dicoding.myapplication;
+package informatika.teknik.mylistview;
 
 public class Hero {
     private String name;

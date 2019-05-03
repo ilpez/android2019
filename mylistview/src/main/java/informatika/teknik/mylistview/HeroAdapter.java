@@ -1,4 +1,4 @@
-package picodiploma.dicoding.myapplication;
+package informatika.teknik.mylistview;
 
 import android.content.Context;
 import android.view.LayoutInflater;

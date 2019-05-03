@@ -1,4 +1,4 @@
-package picodiploma.dicoding.myapplication;
+package informatika.teknik.mylistview;
 
 import android.content.Intent;
 import android.content.res.TypedArray;

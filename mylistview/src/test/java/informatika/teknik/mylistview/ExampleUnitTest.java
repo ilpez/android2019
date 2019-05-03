@@ -1,4 +1,4 @@
-package picodiploma.dicoding.myapplication;
+package informatika.teknik.mylistview;
 
 import org.junit.Test;
 
