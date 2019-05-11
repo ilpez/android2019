@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">MyRecyclerView</string>
-    <string name="description">Deskripsi Pahlawan</string>
-    <string name="list">List</string>
-    <string name="grid">Grid</string>
-    <string name="with_cardview">with CardView</string>
-    <string name="favorite">Favorite</string>
-    <string name="share">Share</string>
-    <string name="heroes_name">Nama Hero</string>
+    <string name="app_name" translatable="false">MyRecyclerView</string>
+    <string name="description" translatable="false">Deskripsi Pahlawan</string>
+    <string name="list" translatable="false">List</string>
+    <string name="grid" translatable="false">Grid</string>
+    <string name="with_cardview" translatable="false">with CardView</string>
+    <string name="favorite" translatable="false">Favorite</string>
+    <string name="share" translatable="false">Share</string>
+    <string name="heroes_name" translatable="false">Nama Hero</string>
     <string-array name="data_name">
         <item>Ahmad Dahlan</item>
         <item>Ahmad Yani</item>
